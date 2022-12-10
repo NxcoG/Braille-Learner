@@ -1,0 +1,13 @@
+Contexte:
+  Dans le cadre du projet Arduino PEIP 2 année 2022/2023.
+
+Objectifs:
+  Nous allons chercher à développer un système permettant d'apprendre à lire le Braille en autonomie.
+  
+Fonctionnalités:
+  Un écran permettant d'afficher menus/consignes...
+  Des commandes (boutons) permettant à l'utilisateur d'interagir avec la machine/l'application.
+  Connectivité Bluetooth.
+  Application mobile jointe.
+  Optionnel: Haut-parleurs.
+  Boitier (aspect esthétique).
